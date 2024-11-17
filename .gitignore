@@ -1,0 +1,5 @@
+.idea
+.DS_Store
+/Vector/.DS_Store
+Vector/bin/
+Vector/obj/
